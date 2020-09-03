@@ -1,0 +1,2 @@
+# research-collaboration
+  We are interested in studying the evolving real-world research collaborations. The data was gathered from a research institute of Thailand, NECTEC. Ultimately the data presents researchers collaboration on different projects to produce some artifacts (intellectual properties, prototypes and scientific articles). We build a collaboration network where researchers are connected if they worked together on one or more artifacts.  The data provided under this project is anonymized into the form of network data, readable by program R.
